@@ -1,0 +1,21 @@
+body {  
+    font-family: sans-serif;
+}
+header {background-color:#FFFF00;
+padding: 30px;
+color: cornflowerblue;
+font-size: 25px;}
+.cards {background-color: #00CC00;
+color: #C212D1;
+padding: 30px;
+text-align: center;}
+footer {
+    padding-left: 60px;
+    height: 230px;
+    background-color: black;
+    padding-top: 70px;
+
+}
+.yt {
+    color: white;
+}
